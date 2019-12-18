@@ -1,0 +1,57 @@
+# Auction house buyers premiums
+'Sothebys':
+  'USD':
+    '2019-02-25':
+      'bracket_0': [4.0e+5, 0.25]
+      'bracket_1': [4.0e+6, 0.20]
+      'bracket_2': [.inf, 0.139]
+    '2018-06-02':
+      'bracket_0': [3.0e+5, 0.25]
+      'bracket_1': [4.0e+6, 0.20]
+      'bracket_2': [.inf, 0.129]
+  'GBP':
+    '2019-02-25':
+      'bracket_0': [3.0e+5, 0.25]
+      'bracket_1': [3.0e+6, 0.20]
+      'bracket_2': [.inf, 0.139]
+    '2018-06-02':
+      'bracket_0': [2.0e+5, 0.25]
+      'bracket_1': [3.0e+6, 0.20]
+      'bracket_2': [.inf, 0.129]
+  'EUR':
+    '2019-02-25':
+      'bracket_0': [2.5e+5, 0.25]
+      'bracket_1': [2.5e+6, 0.20]
+      'bracket_2': [.inf, 0.139]
+    '2017-09-01':
+      'bracket_0': [1.8e+5, 0.25]
+      'bracket_1': [2.0e+6, 0.20]
+      'bracket_2': [.inf, 0.129]
+'Christies':
+  'USD':
+    '2019-02-01':
+      'bracket_0': [3.0e+5, 0.25]
+      'bracket_1': [4.0e+6, 0.20]
+      'bracket_2': [.inf, 0.135]
+    '2017-09-11':
+      'bracket_0': [2.5e+5, 0.25]
+      'bracket_1': [4.0e+6, 0.20]
+      'bracket_2': [.inf, 0.12]
+  'GBP':
+    '2019-02-01':
+      'bracket_0': [2.25e+5, 0.25]
+      'bracket_1': [3.0e+6, 0.20]
+      'bracket_2': [.inf, 0.135]
+    '2017-09-11':
+      'bracket_0': [1.75e+5, 0.25]
+      'bracket_1': [3.0e+6, 0.20]
+      'bracket_2': [.inf, 0.125]
+  'EUR':
+    '2019-02-01':
+      'bracket_0': [2.0e+5, 0.25]
+      'bracket_1': [2.5e+6, 0.20]
+      'bracket_2': [.inf, 0.135]
+    '2017-09-11':
+      'bracket_0': [1.5e+5, 0.25]
+      'bracket_1': [2.0e+6, 0.20]
+      'bracket_2': [.inf, 0.125]
